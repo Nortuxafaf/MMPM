@@ -1,4 +1,4 @@
-const socket = io(' https://98da-2804-14c-ca28-8852-90f9-f969-2f44-e5a8.ngrok-free.app');  // Substitua pela URL do seu servidor exposto
+const socket = io('https://2a32-2804-14c-ca28-8852-90f9-f969-2f44-e5a8.ngrok-free.app');  // Substitua pela URL do seu servidor exposto
 const inputMensagem = document.getElementById('mensagem');
 const btnEnviar = document.getElementById('enviar');
 const containerMensagens = document.getElementById('mensagens-flutuantes');
